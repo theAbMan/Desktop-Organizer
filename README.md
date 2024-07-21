@@ -35,7 +35,7 @@ Desktop Organizer is a tool designed to help you manage your files and folders b
 
 
 ### Demo
-![Demo of application working]('images/demo.gif')
+![Demo of application working](images/demo.gif)
 
 
 ## Contributing
